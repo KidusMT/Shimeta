@@ -24,4 +24,38 @@
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
+
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="facebook_app_id">1684715015163257</string>
+    <string name="fb_login_protocol_scheme">fb1684715015163257</string>
+
+    <string name="prompt_email">Username</string>
+    <string name="action_sign_up">Create Account</string>
+    <string name="question_prompt">Security Question</string>
+    <string-array name="role">
+        <item>Seller</item>
+        <item>Buyer</item>
+    </string-array>
+
+    <string-array name="question_arrays">
+        <item>What is your home town?</item>
+        <item>What is your favorite meal?</item>
+
+        <item>What is your nick name?</item>
+        <item>Where would you like to live?</item>
+    </string-array>
+
+    <string name="question_role">What do you want?</string>
+    <string name="shimeta_moto">Buy and Sell Your Product with us!</string>
+
 </resources>
